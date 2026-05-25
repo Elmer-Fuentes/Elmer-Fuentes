@@ -150,9 +150,9 @@ Aplicaciones **web responsivas** (mobile-first) con **Vite + React + TypeScript*
 
 ---
 
-## 📸 Gestor Pro — Sistema en Producción
+## 📸 Sistema en Producción
 
-> Ecosistema empresarial full-stack para gestión integral de activos corporativos. Desarrollado en **Vite + React + TypeScript + Node.js + SQL Server**. UI responsiva con estética **Cyber-Dark**. Operativo en web y mobile. Gestiona 3 empresas, 20 instalaciones físicas y más de 1,370 activos registrados.
+> Ecosistema empresarial full-stack para gestión integral de activos corporativos. Desarrollado en **Vite + React + TypeScript + Node.js + SQL Server**. UI responsiva con estética **Cyber-Dark**. Operativo en web y mobile. Gestiona 3 empresas, 20 instalaciones físicas y más de 1K activos registrados.
 
 
 ### 📋 Módulos del Sistema
@@ -226,4 +226,4 @@ Aplicaciones **web responsivas** (mobile-first) con **Vite + React + TypeScript*
 | 🌐 | Sincronización de servicios con túneles ngrok |
 
 ---
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00b4d8,100:0d1117&height=120&section=footer)n  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00b4d8,100:0d1117&height=120&section=footer)
