@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:7b2ff7&height=200&section=header&text=Elmer%20Leonel%20De%20La%20Cruz%20Fuentes&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20BI%20Specialist&descAlignY=58&descSize=16)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:7b2ff7&height=200&section=header&text=Elmer%20Fuentes&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20BI%20Specialist&descAlignY=58&descSize=16)
 
 
 
