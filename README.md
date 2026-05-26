@@ -14,10 +14,10 @@
 ## 👨‍💻 Sobre mí
 
 ```txt
-🎓 Ingeniería en Sistemas de Información — Universidad Mariano Gálvez (7.mo Semestre)
-🎓 Técnico en Desarrollo de Software         — Universidad Galileo (6.to Trimestre)
+🎓 Ingeniería en Sistemas de Información — Universidad Mariano Gálvez (8.mo Semestre)
+🎓 Técnico en Desarrollo de Software         — Universidad Galileo (7.to Trimestre)
 📍 Barberena, Santa Rosa, Guatemala
-💼 Soporte IT & Full-Stack Developer @ Industria Avícola Rosanda, S.A.
+💼 Soporte IT & Full-Stack Developer
 🔭 Construyendo ecosistemas de datos integrales y aplicaciones empresariales
 ⚡ Autodidacta | Orientado a resultados | Persistencia en cada línea de código
 ```
@@ -213,7 +213,7 @@ Aplicaciones **web responsivas** (mobile-first) con **Vite + React + TypeScript*
 
 ## 💡 Valor Añadido
 
-> *"Profesional orientado a la mejora continua, la automatización y la excelencia técnica en cada línea de código. Desarrollado con persistencia y orientado a resultados estratégicos."*
+> *"Orientado a la mejora continua, la automatización y la excelencia técnica en cada línea de código. Desarrollado con persistencia y orientado a resultados estratégicos."*
 
 | ✅ | Capacidad |
 |----|-----------|
