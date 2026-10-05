@@ -17,7 +17,7 @@
 🎓 Ingeniería en Sistemas de Información — Universidad Mariano Gálvez (8.mo Semestre)
 🎓 Técnico en Desarrollo de Software         — Universidad Galileo (7.to Trimestre)
 📍 Barberena, Santa Rosa, Guatemala
-💼 Soporte IT & Full-Stack Developer
+💼 Soporte IT &  Developer
 🔭 Construyendo ecosistemas de datos integrales y aplicaciones empresariales
 ⚡ Autodidacta | Orientado a resultados | Persistencia en cada línea de código
 ```
